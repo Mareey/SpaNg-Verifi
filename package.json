@@ -1,0 +1,22 @@
+{
+  "name": "spang",
+  "version": "1.0.0",
+  "description": "Verifi project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mareey/SpaNg-Verifi.git"
+  },
+  "author": "Mareeya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mareey/SpaNg-Verifi/issues"
+  },
+  "homepage": "https://github.com/Mareey/SpaNg-Verifi#readme",
+  "dependencies": {
+    "grunt-cli": "^1.3.2"
+  }
+}
