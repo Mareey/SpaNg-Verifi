@@ -988,11 +988,13 @@
 }
 
 .heading-main .heading-primary__main {
-   font-size: 3rem;
+   font-size: 2.5rem;
+   line-height: 1.5;
 }
 
 .heading-main .heading-primary__sub {
    font-size: 2rem;
+   line-height: 1.2;
 }
 
 .subscribe-btn {
