@@ -987,11 +987,11 @@
    padding-right: 2rem;
 }
 
-.heading-primary__main {
+.heading-main .heading-primary__main {
    font-size: 3rem;
 }
 
-.heading-primary__sub {
+.heading-main .heading-primary__sub {
    font-size: 2rem;
 }
 
