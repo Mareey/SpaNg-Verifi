@@ -914,4 +914,92 @@
    top: 22%;
 }
 }
+
+@media screen and (max-width: 320px) {
+   
+   .col-1-of-3__text > .btn:link {   
+      left: 27%;
+   }
+
+   .btn-pink {
+      padding: .5rem 1rem;
+  }
+
+  .col-footer-2-a {
+   margin-top: 3rem;
+ }
+
+ .col-footer-2-b:not(:last-child) {
+   margin-top: -13rem;
+   margin-bottom: 11rem;
+}
+ 
+.header-nav ul {
+   top: 25%;
+}
+
+ .col-one:not(:first-child) {
+   padding-top: 6rem;
+}
+
+.col-two img {
+   margin-top: 5rem;
+}
+
+.col-three img {
+   margin-top: 4rem;
+}
+
+.col-three .img-last-child {
+   margin-top: 1rem;
+}
+
+.img-text {
+   top: 90%;
+}
+
+.img-text-top {
+   top: 38%;
+}
+
+.col-1-of-3__image .img-text {
+   top: 95%;
+}
+
+.heading-primary__main-deal {
+   font-size: 2.5rem;
+}
+.spa-deal-main p span {
+   line-height: 1.6;
+   padding: .1rem 1rem;
+}
+
+.header-mini-content  input {
+   width: 15rem;
+}
+
+.header-contact-information-text {
+   padding-left: 4rem;
+}
+
+.header-contact-information-images {
+   padding-right: 2rem;
+}
+
+.heading-primary__main {
+   line-height: 1;
+}
+
+.heading-primary__sub {
+   line-height: 1.2;
+}
+
+.subscribe-btn {
+   margin-left: 1.5rem;
+}
+
+.col-foot-of-4__text-copy {
+   margin-top: -1.5rem;
+}
+}
  
