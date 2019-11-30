@@ -921,7 +921,7 @@
       font-size: 4rem;
    } 
 
-   .heading-primary .heading-primary__main {
+   .heading-primary .heading-primary__sub {
       font-size: 2rem;
    } 
 
@@ -1013,21 +1013,21 @@
 }
 
 .col-foot-of-4__text-copy {
-   margin-top: -1.5rem;
+   margin-top: -2.5rem;
 }
 
-.col-footer-2-a {
+/* .col-footer-2-a {
   padding-top: .5rem;
 }
 
 .col-footer-2-b {
    margin-top: .5rem;
-}
+} */
 
-.col-footer-2-b:not(:last-child) {
+/* .col-footer-2-b:not(:last-child) {
    margin-bottom: -3rem;
    margin-top: -12rem;
-}
+} */
 
 .checkbtn {
    margin-right: 1rem;
