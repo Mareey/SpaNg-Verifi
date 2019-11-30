@@ -987,15 +987,15 @@
    padding-right: 2rem;
 }
 
-.heading-primary__main {
-   line-height: 1.5;
-   font-size: 3rem;
+/* .heading-primary__main {
+   line-height: 1.3;
+   font-size: 2.5rem;
 }
 
 .heading-primary__sub {
-   line-height: 1.5;
-   font-size: 2.5rem;
-}
+   line-height: 1.2;
+   font-size: 2rem;
+} */
 
 .subscribe-btn {
    margin-left: 3rem;
