@@ -964,7 +964,7 @@
 }
 
 .col-1-of-3__image .img-text {
-   top: 80%;
+   top: 90%;
 }
 
 .heading-primary__main-deal {
@@ -994,7 +994,7 @@
 }
 
 .heading-main .heading-primary__sub {
-   font-size: 2rem;
+   font-size: 1.6rem;
    line-height: 1.2;
    padding-top: 1rem;
 }
