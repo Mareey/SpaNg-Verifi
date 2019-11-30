@@ -915,7 +915,7 @@
 }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
    
    .col-1-of-3__text > .btn:link {   
       left: 27%;
